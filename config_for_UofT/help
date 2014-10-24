@@ -1,0 +1,3 @@
+pwds:
+/etc/wpa_supplicant/wpa_supplicant.conf
+/etc/network/interfaces 
